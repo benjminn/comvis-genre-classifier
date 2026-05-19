@@ -67,7 +67,7 @@ project-akhir/
 │   ├── sample_predictions.png
 │   └── training_history.png
 │
-└── Datasets/
+└── Datasets/                                 # Kaggle Import
     ├── images/
     │   ├── train/   # 250 poster images (1.jpg – 250.jpg)
     │   └── test/    # 50 poster images (251.jpg – 300.jpg)
