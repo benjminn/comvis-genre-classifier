@@ -1,0 +1,16 @@
+{
+  "action": 0.33,
+  "adventure": 0.36,
+  "animation": 0.43,
+  "comedy": 0.35,
+  "crime": 0.61,
+  "drama": 0.49,
+  "family": 0.38,
+  "fantasy": 0.43,
+  "horror": 0.43,
+  "musical": 0.19,
+  "mystery": 0.59,
+  "romance": 0.44,
+  "scifi": 0.53,
+  "thriller": 0.62
+}
