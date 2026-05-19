@@ -1,6 +1,6 @@
 # 🎬 Movie Poster Multi-Label Genre Classification
 
-This project compares three modern deep learning architectures — **ResNet-50**, **CLIP ViT-L/14**, and **SigLIP** — for multi-label genre classification of movies based on their poster images. All three models are trained and evaluated using an **identical, standardized pipeline** to ensure a scientifically valid apples-to-apples comparison.
+This project compares three modern deep learning architectures **ResNet-50**, **CLIP ViT-L/14**, and **SigLIP** for multi-label genre classification of movies based on their poster images. All three models are trained and evaluated using an **identical, standardized pipeline** to ensure a scientifically valid apples-to-apples comparison.
 
 > 📄 **Associated Paper:** *"Multi-Label Movie Poster Genre Classification: A Comparative Study of ResNet-50, CLIP, and SigLIP"* — Lisa Olivia Putri Maharani, Benjamin Sigit, Rafeyfa Asyla. DTETI, Universitas Gadjah Mada, 2025.
 
