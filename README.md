@@ -113,6 +113,8 @@ pip install torch torchvision open-clip-torch transformers \
 
 ## 🗄️ Dataset
 
+> 🔗 **Dataset Download:** The full dataset is available on Kaggle: [Computer Vision Poster Dataset](https://www.kaggle.com/datasets/benjaminsigit/computer-vision-poster-dataset)
+
 | | Details |
 |---|---|
 | **Total images** | 300 JPEG movie posters sourced from IMDb |
@@ -456,8 +458,3 @@ Per-class threshold calibration via median aggregation over 5 folds yields syste
 - CLIP has 3.5× more parameters (303M vs 86M) and uses additional augmentation — controlled comparison isolates architectural differences only partially
 - Multi-label genre annotation is inherently subjective
 
----
-
-## 📄 License
-
-MIT License — free to use for academic and research purposes.
